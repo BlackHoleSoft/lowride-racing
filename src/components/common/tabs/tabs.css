@@ -1,0 +1,9 @@
+.tabs {
+    width: 100%;
+}
+.tabs-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 44px;
+}
